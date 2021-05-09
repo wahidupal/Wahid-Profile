@@ -1,8 +1,8 @@
 ## Wahid-Profile
-A masters student in Microelectronics and Microsystems in TUHH 
-Did my bachelor in EEE in Bangladesh
-Worked in Tower maintance for 9 months in Bangladesh
-Currnetly learning Python and R computer language as method to data analysis
+A masters student in Microelectronics and Microsystems in TUHH. 
+Did my bachelor in EEE in Bangladesh.
+Worked in Tower maintance for 9 months in Bangladesh.
+Currnetly learning Python and R computer language as method to data analysis.
 ### Project
 - Did a project on popular Anime in My anime list website using Python
 - Did a project on popular movies in IMDB website using Python
